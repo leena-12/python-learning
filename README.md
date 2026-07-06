@@ -16,12 +16,14 @@ My goal is to build a strong foundation in programming, backend development, and
 - ✅ Day 4 - Loops
 - ✅ Day 5 - Nested Loops & Pattern Printing
 - ✅ Day 6 - Functions & Mini Project (Menu-Driven Calculator)
+- ✅ Day 7 - Advanced Functions & Mini Project (Student Result System)
 
 ---
 
 ## 🛠️ Projects Completed
 
 - 🧮 Menu-Driven Calculator
+- Student Result System
 
 ---
 
@@ -58,6 +60,7 @@ Python-Roadmap/
 ├── Day 4
 ├── Day 5
 └── Day 6
+└── Day 7
 ```
 
 ---
