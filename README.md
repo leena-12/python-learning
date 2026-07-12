@@ -1,4 +1,4 @@
-# Python Roadmap 🚀
+# # Python Roadmap 🚀
 
 Hi! I'm currently learning Python as part of my journey to become a Software Engineer.
 
@@ -17,13 +17,15 @@ My goal is to build a strong foundation in programming, backend development, and
 - ✅ Day 5 - Nested Loops & Pattern Printing
 - ✅ Day 6 - Functions & Mini Project (Menu-Driven Calculator)
 - ✅ Day 7 - Advanced Functions & Mini Project (Student Result System)
+- ✅ Day 8 - Lists (Creation, Indexing, Slicing, Methods, Traversing)
+- ✅ Day 9 - Advanced Lists (List Comprehensions, Copying Lists, Nested Lists, Sorting, Searching)
 
 ---
 
 ## 🛠️ Projects Completed
 
 - 🧮 Menu-Driven Calculator
-- Student Result System
+- 🎓 Student Result System
 
 ---
 
@@ -38,7 +40,6 @@ My goal is to build a strong foundation in programming, backend development, and
 
 ## 📖 Upcoming Topics
 
-- Lists
 - Tuples
 - Dictionaries
 - File Handling
@@ -59,8 +60,10 @@ Python-Roadmap/
 ├── Day 3
 ├── Day 4
 ├── Day 5
-└── Day 6
-└── Day 7
+├── Day 6
+├── Day 7
+├── Day 8
+└── Day 9
 ```
 
 ---
