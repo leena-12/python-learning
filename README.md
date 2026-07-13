@@ -18,7 +18,7 @@ My goal is to build a strong foundation in programming, backend development, and
 - ✅ Day 6 - Functions & Mini Project (Menu-Driven Calculator)
 - ✅ Day 7 - Advanced Functions & Mini Project (Student Result System)
 - ✅ Day 8 - Lists (Creation, Indexing, Slicing, Methods, Traversing)
-- ✅ Day 9 - Advanced Lists (List Comprehensions, Copying Lists, Nested Lists, Sorting, Searching)
+- ✅ Day 9 - Advanced Lists (List Comprehensions, Copying Lists, Sorting, Searching)
 
 ---
 
@@ -80,6 +80,6 @@ Each completed day represents a step forward in my journey toward becoming a Sof
 
 I'll continue updating this repository with new topics, projects, and improvements as I progress through my Python learning roadmap.
 
----
+
 
 ⭐ Thank you for visiting my repository! Feel free to explore my work and follow my learning journey.
