@@ -1,0 +1,4 @@
+Learning Python is fun
+Python file handling is useful
+Java is also a good language
+I enjoy coding every day
