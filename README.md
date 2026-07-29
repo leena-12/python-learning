@@ -38,6 +38,8 @@ My primary goal is to:
 - ✅ Day 12 – Strings (Part 1)
 - ✅ Day 13 – Strings (Part 2)
 - ✅ Day 14 – File Handling (Reading, Writing, Appending & File Operations)
+- ✅ Day 15 – Advanced File Handling (Searching, Updating, File Pointers & Student Database Manager)
+- ✅ Day 16 – Exception Handling (try, except, else, finally, raise & ATM System)
 
 ---
 
@@ -56,6 +58,10 @@ My primary goal is to:
 - 🔐 Password Validator
 - 📊 Text Analyzer
 - 📁 Student Record File Management System
+- 🗂️ Student Database Manager
+- 💰 Expense Tracker
+- 🏦 ATM System with Exception Handling
+- 🎓 Student Grade Calculator
 
 ---
 
@@ -132,7 +138,24 @@ My primary goal is to:
 - File Modes (`r`, `w`, `a`, `r+`)
 - Using the `with` Statement
 - Working with Text Files
+- Reading Multiple Lines
+- Searching Data in Files
+- Updating File Content
+- File Pointer (`tell()` & `seek()`)
 - Basic File Management
+
+## Exception Handling
+
+- Runtime Errors
+- `try`
+- `except`
+- `else`
+- `finally`
+- Raising Exceptions (`raise`)
+- Handling Specific Exceptions
+- Input Validation
+- File Exception Handling
+- Writing Robust Programs
 
 ---
 
@@ -164,7 +187,9 @@ Python-Learning/
 ├── Day-11-Sets-Part-1
 ├── Day-12-Strings-Part-1
 ├── Day-13-Strings-Part-2
-└── Day-14-File-Handling
+├── Day-14-File-Handling
+├── Day-15-Advanced-File-Handling
+└── Day-16-Exception-Handling
 ```
 
 ---
@@ -185,15 +210,14 @@ This repository reflects my commitment to improving every day through:
 
 # 🎯 Current Milestone
 
-✔ **Python Fundamentals & File Handling Completed**
+✔ **Python Fundamentals, File Handling & Exception Handling Completed**
 
-I have completed Python fundamentals along with file handling, enabling me to build applications that can read from and write to files. I am now moving toward advanced Python concepts and real-world application development.
+I have built a strong foundation in Python programming by mastering core concepts, collections, file handling, and exception handling. I can now develop more reliable applications that store data, handle user errors gracefully, and follow better programming practices. My next focus is writing modular code and building larger real-world projects using Object-Oriented Programming.
 
 ---
 
 # 📖 Upcoming Topics
 
-- Exception Handling
 - Modules & Packages
 - Object-Oriented Programming (OOP)
 - Advanced OOP Concepts
@@ -208,9 +232,11 @@ I have completed Python fundamentals along with file handling, enabling me to bu
 # 📊 Repository Status
 
 - 📅 Learning Since: 2026
-- 🔥 Daily Practice
+- 🔥 Python Days Completed: **16**
+- 🚀 Mini Projects: **17**
 - 📂 Regular GitHub Updates
-- 🚀 Project-Based Learning
+- 💻 Project-Based Learning
+- 🎯 Focused on Software Engineering & Backend Development
 
 ---
 
