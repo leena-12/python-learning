@@ -10,58 +10,64 @@ I'm currently learning **Python** as part of my journey to become a **Software E
 
 My primary goal is to:
 
-- Build a strong foundation in Python programming.
-- Develop problem-solving skills.
-- Master Data Structures and Algorithms.
-- Learn Backend Development.
-- Build real-world projects.
-- Prepare for Software Engineering internships.
+* Build a strong foundation in Python programming.
+* Develop problem-solving skills.
+* Master Data Structures and Algorithms.
+* Learn Backend Development.
+* Build real-world projects.
+* Prepare for Software Engineering internships.
 
 ---
 
 # 📚 Progress
 
-## ✅ Python Fundamentals
+## ✅ Python Learning Journey
 
-- ✅ Day 1 – Variables, Data Types & Input/Output
-- ✅ Day 2 – Operators
-- ✅ Day 3 – Conditional Statements
-- ✅ Day 4 – Loops
-- ✅ Day 5 – Nested Loops & Pattern Printing
-- ✅ Day 6 – Functions & Menu-Driven Calculator
-- ✅ Day 7 – Advanced Functions, Scope & Student Result System
-- ✅ Review Day – Revision of Days 1–7
-- ✅ Day 8 – Lists (Creation, Indexing, Slicing, Methods & Traversing)
-- ✅ Day 9 – Advanced Lists (Iteration, Membership, Copying & List Comprehensions)
-- ✅ Day 10 – Dictionaries (Part 1)
-- ✅ Day 11 – Sets (Part 1)
-- ✅ Day 12 – Strings (Part 1)
-- ✅ Day 13 – Strings (Part 2)
-- ✅ Day 14 – File Handling (Reading, Writing, Appending & File Operations)
-- ✅ Day 15 – Advanced File Handling (Searching, Updating, File Pointers & Student Database Manager)
-- ✅ Day 16 – Exception Handling (try, except, else, finally, raise & ATM System)
+* ✅ Day 1 – Variables, Data Types & Input/Output
+* ✅ Day 2 – Operators
+* ✅ Day 3 – Conditional Statements
+* ✅ Day 4 – Loops
+* ✅ Day 5 – Nested Loops & Pattern Printing
+* ✅ Day 6 – Functions & Menu-Driven Calculator
+* ✅ Day 7 – Advanced Functions, Scope & Student Result System
+* ✅ Review Day – Revision of Days 1–7
+* ✅ Day 8 – Lists (Creation, Indexing, Slicing, Methods & Traversing)
+* ✅ Day 9 – Advanced Lists (Iteration, Membership, Copying & List Comprehensions)
+* ✅ Day 10 – Dictionaries (Creation, Methods & Dictionary Applications)
+* ✅ Day 11 – Sets (Operations, Methods & Practical Applications)
+* ✅ Day 12 – Strings (Part 1 – Basics & Common Methods)
+* ✅ Day 13 – Strings (Part 2 – Advanced Operations & Mini Projects)
+* ✅ Day 14 – File Handling (Reading, Writing, Appending & File Operations)
+* ✅ Day 15 – Advanced File Handling (Searching, Updating, File Pointers & Student Database Manager)
+* ✅ Day 16 – Exception Handling (`try`, `except`, `else`, `finally`, `raise`)
+* ✅ Day 17 – Modules & Packages (Creating Modules, Importing & Code Organization)
+* ✅ Day 18 – Object-Oriented Programming (Part 1 – Classes, Objects, Constructors & Instance Methods)
+* ✅ Day 19 – Object-Oriented Programming (Part 2 – Encapsulation, Class Variables, Static Methods & Getters/Setters)
 
 ---
 
-# 🚀 Mini Projects Completed
+# 🚀 Projects Completed
 
-- 🧮 Menu-Driven Calculator
-- 🎓 Student Result Management System
-- 📋 Student Attendance System
-- 🎬 Movie Collection Manager
-- 👨‍🎓 Student Information System
-- 📞 Phone Book Application
-- 📚 Library Book Management System
-- 👥 Unique Visitor Tracker
-- 📧 Student Email Generator
-- 👤 Username Generator
-- 🔐 Password Validator
-- 📊 Text Analyzer
-- 📁 Student Record File Management System
-- 🗂️ Student Database Manager
-- 💰 Expense Tracker
-- 🏦 ATM System with Exception Handling
-- 🎓 Student Grade Calculator
+* 🧮 Menu-Driven Calculator
+* 🎓 Student Result Management System
+* 📋 Student Attendance System
+* 🎬 Movie Collection Manager
+* 👨‍🎓 Student Information System
+* 📞 Phone Book Application
+* 📚 Library Book Management System (Version 1)
+* 👥 Unique Visitor Tracker
+* 📧 Student Email Generator
+* 👤 Username Generator
+* 🔐 Password Validator
+* 📊 Text Analyzer
+* 📁 Student Record File Management System
+* 🗂️ Student Database Manager
+* 💰 Expense Tracker
+* 🏦 ATM System with Exception Handling
+* 🎓 Student Grade Calculator
+* 📚 Library Management System (OOP Version)
+* 🏦 Bank Management System (OOP Version 2)
+* 👨‍💼 Employee Management System
 
 ---
 
@@ -69,102 +75,139 @@ My primary goal is to:
 
 ## Python Basics
 
-- Variables
-- Data Types
-- Type Casting
-- Input & Output
-- Operators
+* Variables
+* Data Types
+* Type Casting
+* Input & Output
+* Operators
 
 ## Control Flow
 
-- Conditional Statements
-- Loops
-- Nested Loops
+* Conditional Statements
+* Loops
+* Nested Loops
 
 ## Functions
 
-- Function Creation
-- Parameters
-- Return Values
-- Default Arguments
-- Keyword Arguments
-- Variable Scope
+* Function Creation
+* Parameters
+* Return Values
+* Default Arguments
+* Keyword Arguments
+* Variable Scope
 
 ## Collections
 
 ### Lists
 
-- Creating Lists
-- Indexing
-- Slicing
-- Traversing
-- List Methods
-- Membership Operators
-- Copying Lists
-- List Comprehensions
+* Creating Lists
+* Indexing
+* Slicing
+* Traversing
+* List Methods
+* Membership Operators
+* Copying Lists
+* List Comprehensions
 
 ### Dictionaries
 
-- Key-Value Pairs
-- Dictionary Methods
-- Updating Data
-- Searching Data
+* Key-Value Pairs
+* Dictionary Methods
+* Updating Data
+* Searching Data
 
 ### Sets
 
-- Unique Elements
-- Set Operations
-- Membership Testing
-- Removing Duplicates
+* Unique Elements
+* Set Operations
+* Membership Testing
+* Removing Duplicates
 
 ### Strings
 
-- Indexing
-- Slicing
-- String Methods
-- Searching
-- Character Validation
-- Reversing Strings
-- String Formatting
-- Palindrome Checking
-- Character Frequency Analysis
+* Indexing
+* Slicing
+* String Methods
+* Searching
+* Character Validation
+* Reversing Strings
+* String Formatting
+* Palindrome Checking
+* Character Frequency Analysis
 
 ## File Handling
 
-- Opening Files
-- Reading Files
-- Writing Files
-- Appending Data
-- File Modes (`r`, `w`, `a`, `r+`)
-- Using the `with` Statement
-- Working with Text Files
-- Reading Multiple Lines
-- Searching Data in Files
-- Updating File Content
-- File Pointer (`tell()` & `seek()`)
-- Basic File Management
+* Opening Files
+* Reading Files
+* Writing Files
+* Appending Data
+* File Modes (`r`, `w`, `a`, `r+`)
+* Using the `with` Statement
+* Reading Multiple Lines
+* Searching Data in Files
+* Updating File Content
+* File Pointer (`tell()` & `seek()`)
+* File Management
 
 ## Exception Handling
 
-- Runtime Errors
-- `try`
-- `except`
-- `else`
-- `finally`
-- Raising Exceptions (`raise`)
-- Handling Specific Exceptions
-- Input Validation
-- File Exception Handling
-- Writing Robust Programs
+* Runtime Errors
+* `try`
+* `except`
+* `else`
+* `finally`
+* Raising Exceptions (`raise`)
+* Handling Specific Exceptions
+* Input Validation
+* File Exception Handling
+
+## Modules & Packages
+
+* Creating Modules
+* Importing Modules
+* Importing Specific Functions
+* Aliasing Modules
+* Built-in Modules
+* Code Reusability
+* Organizing Python Programs
+
+## Object-Oriented Programming
+
+### OOP Basics
+
+* Classes
+* Objects
+* Constructors (`__init__`)
+* Instance Variables
+* Instance Methods
+* Object Creation
+* Multiple Objects
+
+### Encapsulation
+
+* Public Variables
+* Protected Variables
+* Private Variables
+* Getter Methods
+* Setter Methods
+* Data Validation
+
+### Advanced OOP
+
+* Class Variables
+* Instance Variables
+* Class Methods
+* Static Methods
+* Designing Reusable Classes
 
 ---
 
 # 💻 Technologies & Tools
 
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
+* Python 3
+* Visual Studio Code
+* Git
+* GitHub
 
 ---
 
@@ -183,13 +226,16 @@ Python-Learning/
 ├── Review-Day-01
 ├── Day-08-Lists-Part-1
 ├── Day-09-Lists-Part-2
-├── Day-10-Dictionaries-Part-1
-├── Day-11-Sets-Part-1
+├── Day-10-Dictionaries
+├── Day-11-Sets
 ├── Day-12-Strings-Part-1
 ├── Day-13-Strings-Part-2
 ├── Day-14-File-Handling
 ├── Day-15-Advanced-File-Handling
-└── Day-16-Exception-Handling
+├── Day-16-Exception-Handling
+├── Day-17-Modules-and-Packages
+├── Day-18-OOP-Part-1
+└── Day-19-OOP-Part-2
 ```
 
 ---
@@ -200,43 +246,49 @@ I believe that learning programming is not about memorizing syntax—it's about 
 
 This repository reflects my commitment to improving every day through:
 
-- 📖 Learning
-- 💻 Coding
-- 🧩 Problem Solving
-- 🚀 Building Projects
-- 📂 Version Control with Git & GitHub
+* 📖 Learning
+* 💻 Coding
+* 🧩 Problem Solving
+* 🚀 Building Projects
+* 📂 Version Control with Git & GitHub
 
 ---
 
 # 🎯 Current Milestone
 
-✔ **Python Fundamentals, File Handling & Exception Handling Completed**
+✔ **Python Fundamentals, Modules & Object-Oriented Programming Foundations Completed**
 
-I have built a strong foundation in Python programming by mastering core concepts, collections, file handling, and exception handling. I can now develop more reliable applications that store data, handle user errors gracefully, and follow better programming practices. My next focus is writing modular code and building larger real-world projects using Object-Oriented Programming.
+I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the foundations of Object-Oriented Programming. I can now write modular, organized, and reusable programs using classes and objects.
+
+The next phase of my journey focuses on advanced OOP concepts, working with data formats and databases, and building larger backend-oriented applications.
 
 ---
 
 # 📖 Upcoming Topics
 
-- Modules & Packages
-- Object-Oriented Programming (OOP)
-- Advanced OOP Concepts
-- Iterators & Generators
-- Decorators (Introduction)
-- Working with JSON
-- SQLite Basics
-- Python Project Development
+* Inheritance
+* Polymorphism
+* Abstraction
+* Advanced OOP Projects
+* Iterators & Generators
+* Decorators
+* Working with JSON
+* SQLite Database
+* APIs
+* FastAPI
+* Backend Development
+* Real-World Portfolio Projects
 
 ---
 
 # 📊 Repository Status
 
-- 📅 Learning Since: 2026
-- 🔥 Python Days Completed: **16**
-- 🚀 Mini Projects: **17**
-- 📂 Regular GitHub Updates
-- 💻 Project-Based Learning
-- 🎯 Focused on Software Engineering & Backend Development
+* 📅 Learning Since: 2026
+* 🔥 Python Days Completed: **19**
+* 🚀 Projects Completed: **20**
+* 📂 Regular GitHub Updates
+* 💻 Project-Based Learning
+* 🎯 Focused on Software Engineering & Backend Development
 
 ---
 
