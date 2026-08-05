@@ -43,6 +43,8 @@ My primary goal is to:
 * ✅ Day 17 – Modules & Packages (Creating Modules, Importing & Code Organization)
 * ✅ Day 18 – Object-Oriented Programming (Part 1 – Classes, Objects, Constructors & Instance Methods)
 * ✅ Day 19 – Object-Oriented Programming (Part 2 – Encapsulation, Class Variables, Static Methods & Getters/Setters)
+* ✅ Day 20 – Object-Oriented Programming (Part 3 – Inheritance, Method Overriding & `super()`)
+* ✅ Day 21 – Object-Oriented Programming (Part 4 – Polymorphism, Duck Typing & Dynamic Method Dispatch)
 
 ---
 
@@ -65,9 +67,12 @@ My primary goal is to:
 * 💰 Expense Tracker
 * 🏦 ATM System with Exception Handling
 * 🎓 Student Grade Calculator
-* 📚 Library Management System (OOP Version)
-* 🏦 Bank Management System (OOP Version 2)
+* 📚 Library Management System (Version 2 – OOP)
+* 🏦 Bank Management System (Version 2 – OOP)
 * 👨‍💼 Employee Management System
+* 📚 Library Management System (Version 3 – Inheritance)
+* 📚 Library Management System (Version 4 – Polymorphism)
+* 🍕 Food Delivery System
 
 ---
 
@@ -199,6 +204,17 @@ My primary goal is to:
 * Class Methods
 * Static Methods
 * Designing Reusable Classes
+* Inheritance
+* Parent & Child Classes
+* Method Overriding
+* `super()` Function
+* Code Reusability
+* Polymorphism
+* Runtime Polymorphism
+* Duck Typing
+* Dynamic Method Dispatch
+* `isinstance()`
+* Flexible Software Design
 
 ---
 
@@ -235,7 +251,9 @@ Python-Learning/
 ├── Day-16-Exception-Handling
 ├── Day-17-Modules-and-Packages
 ├── Day-18-OOP-Part-1
-└── Day-19-OOP-Part-2
+├── Day-19-OOP-Part-2
+├── Day-20-Inheritance
+└── Day-21-Polymorphism
 ```
 
 ---
@@ -256,19 +274,18 @@ This repository reflects my commitment to improving every day through:
 
 # 🎯 Current Milestone
 
-✔ **Python Fundamentals, Modules & Object-Oriented Programming Foundations Completed**
+✔ **Python Fundamentals & Core Object-Oriented Programming Completed**
 
-I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the foundations of Object-Oriented Programming. I can now write modular, organized, and reusable programs using classes and objects.
+I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the four core pillars of Object-Oriented Programming: encapsulation, inheritance, and polymorphism (with abstraction coming next). I can now design modular, reusable, and maintainable software using object-oriented principles.
 
-The next phase of my journey focuses on advanced OOP concepts, working with data formats and databases, and building larger backend-oriented applications.
+The next phase of my journey focuses on abstraction, advanced Python concepts, databases, APIs, backend development, and building production-style portfolio projects.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Inheritance
-* Polymorphism
 * Abstraction
+* Abstract Base Classes (ABC)
 * Advanced OOP Projects
 * Iterators & Generators
 * Decorators
@@ -284,8 +301,8 @@ The next phase of my journey focuses on advanced OOP concepts, working with data
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* 🔥 Python Days Completed: **19**
-* 🚀 Projects Completed: **20**
+* 🔥 Python Days Completed: **21**
+* 🚀 Projects Completed: **23**
 * 📂 Regular GitHub Updates
 * 💻 Project-Based Learning
 * 🎯 Focused on Software Engineering & Backend Development
