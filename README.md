@@ -45,6 +45,7 @@ My primary goal is to:
 * ✅ Day 19 – Object-Oriented Programming (Part 2 – Encapsulation, Class Variables, Static Methods & Getters/Setters)
 * ✅ Day 20 – Object-Oriented Programming (Part 3 – Inheritance, Method Overriding & `super()`)
 * ✅ Day 21 – Object-Oriented Programming (Part 4 – Polymorphism, Duck Typing & Dynamic Method Dispatch)
+* ✅ Day 22 – Object-Oriented Programming (Part 5 – Abstraction, Abstract Classes & Abstract Methods)
 
 ---
 
@@ -73,6 +74,8 @@ My primary goal is to:
 * 📚 Library Management System (Version 3 – Inheritance)
 * 📚 Library Management System (Version 4 – Polymorphism)
 * 🍕 Food Delivery System
+* 📚 Library Management System (Version 5 – Abstraction)
+* 💳 Online Payment System (Abstraction)
 
 ---
 
@@ -196,25 +199,38 @@ My primary goal is to:
 * Getter Methods
 * Setter Methods
 * Data Validation
+* Data Hiding
 
-### Advanced OOP
+### Inheritance
 
-* Class Variables
-* Instance Variables
-* Class Methods
-* Static Methods
-* Designing Reusable Classes
-* Inheritance
 * Parent & Child Classes
+* Single Inheritance
 * Method Overriding
 * `super()` Function
 * Code Reusability
+* Extending Existing Classes
+
+### Polymorphism
+
 * Polymorphism
+* Method Overriding
 * Runtime Polymorphism
 * Duck Typing
 * Dynamic Method Dispatch
 * `isinstance()`
 * Flexible Software Design
+
+### Abstraction
+
+* Abstraction Concepts
+* Abstract Classes
+* Abstract Methods
+* `ABC`
+* `abstractmethod`
+* Python `abc` Module
+* Designing Class Contracts
+* Hiding Implementation Details
+* Essential Interface Design
 
 ---
 
@@ -253,7 +269,8 @@ Python-Learning/
 ├── Day-18-OOP-Part-1
 ├── Day-19-OOP-Part-2
 ├── Day-20-Inheritance
-└── Day-21-Polymorphism
+├── Day-21-Polymorphism
+└── Day-22-Abstraction
 ```
 
 ---
@@ -274,37 +291,74 @@ This repository reflects my commitment to improving every day through:
 
 # 🎯 Current Milestone
 
-✔ **Python Fundamentals & Core Object-Oriented Programming Completed**
+✔ **Python Fundamentals, Modules & Core Object-Oriented Programming Completed**
 
-I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the four core pillars of Object-Oriented Programming: encapsulation, inheritance, and polymorphism (with abstraction coming next). I can now design modular, reusable, and maintainable software using object-oriented principles.
+I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the four core pillars of Object-Oriented Programming:
 
-The next phase of my journey focuses on abstraction, advanced Python concepts, databases, APIs, backend development, and building production-style portfolio projects.
+* 🔒 Encapsulation
+* 🧬 Inheritance
+* 🎭 Polymorphism
+* 🎨 Abstraction
+
+I can now design modular, reusable, maintainable, and object-oriented programs using Python.
+
+The next phase of my journey will focus on advanced Python concepts, data handling, databases, APIs, backend development, and larger real-world software projects.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Abstraction
-* Abstract Base Classes (ABC)
 * Advanced OOP Projects
 * Iterators & Generators
 * Decorators
 * Working with JSON
 * SQLite Database
-* APIs
+* SQL
+* APIs & HTTP
 * FastAPI
 * Backend Development
+* Authentication
+* Testing
 * Real-World Portfolio Projects
+
+---
+
+# 🌟 Long-Term Software Engineering Roadmap
+
+```text
+Python Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+SQL & Databases
+        ↓
+Backend Development
+        ↓
+REST APIs
+        ↓
+FastAPI
+        ↓
+Testing & Authentication
+        ↓
+Cloud & Deployment
+        ↓
+Real-World Projects
+        ↓
+Software Engineering Internship
+```
 
 ---
 
 # 📊 Repository Status
 
 * 📅 Learning Since: 2026
-* 🔥 Python Days Completed: **21**
-* 🚀 Projects Completed: **23**
+* 🔥 Python Days Completed: **22**
+* 🚀 Projects Completed: **25**
 * 📂 Regular GitHub Updates
 * 💻 Project-Based Learning
+* 🧩 OOP Foundations Completed
 * 🎯 Focused on Software Engineering & Backend Development
 
 ---
