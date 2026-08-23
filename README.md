@@ -46,6 +46,7 @@ My primary goal is to:
 * ✅ Day 20 – Object-Oriented Programming (Part 3 – Inheritance, Method Overriding & `super()`)
 * ✅ Day 21 – Object-Oriented Programming (Part 4 – Polymorphism, Duck Typing & Dynamic Method Dispatch)
 * ✅ Day 22 – Object-Oriented Programming (Part 5 – Abstraction, Abstract Classes & Abstract Methods)
+* ✅ Day 23 – Object-Oriented Programming (Part 6 – Composition & Aggregation)
 
 ---
 
@@ -76,6 +77,7 @@ My primary goal is to:
 * 🍕 Food Delivery System
 * 📚 Library Management System (Version 5 – Abstraction)
 * 💳 Online Payment System (Abstraction)
+* 🏢 Company Management System (Composition & Aggregation)
 
 ---
 
@@ -232,6 +234,19 @@ My primary goal is to:
 * Hiding Implementation Details
 * Essential Interface Design
 
+### Composition & Aggregation
+
+* Object Composition
+* Object Aggregation
+* "Has-A" Relationship
+* Strong Object Ownership
+* Weak Object Association
+* Object Lifecycle
+* Composition vs Aggregation
+* Designing Classes with Relationships
+* Reusable Object Design
+* Building Complex Systems from Smaller Objects
+
 ---
 
 # 💻 Technologies & Tools
@@ -241,7 +256,6 @@ My primary goal is to:
 * Git
 * GitHub
 
----
 
 # 📂 Repository Structure
 
@@ -270,67 +284,58 @@ Python-Learning/
 ├── Day-19-OOP-Part-2
 ├── Day-20-Inheritance
 ├── Day-21-Polymorphism
-└── Day-22-Abstraction
-```
-
----
-
-# 📈 Learning Philosophy
+├── Day-22-Abstraction
+└── Day-23-Composition-and-Aggregation
+📈 Learning Philosophy
 
 I believe that learning programming is not about memorizing syntax—it's about understanding concepts, practicing consistently, and building projects.
 
 This repository reflects my commitment to improving every day through:
 
-* 📖 Learning
-* 💻 Coding
-* 🧩 Problem Solving
-* 🚀 Building Projects
-* 📂 Version Control with Git & GitHub
+📖 Learning
+💻 Coding
+🧩 Problem Solving
+🚀 Building Projects
+📂 Version Control with Git & GitHub
+🎯 Current Milestone
 
----
+✔ Python Fundamentals, Modules & Core Object-Oriented Programming Completed
 
-# 🎯 Current Milestone
+I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the major Object-Oriented Programming concepts:
 
-✔ **Python Fundamentals, Modules & Core Object-Oriented Programming Completed**
+🔒 Encapsulation
+🧬 Inheritance
+🎭 Polymorphism
+🎨 Abstraction
+🔗 Composition & Aggregation
 
-I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the four core pillars of Object-Oriented Programming:
+I can now design modular, reusable, maintainable, and object-oriented programs using Python, including systems where multiple objects interact through well-defined relationships.
 
-* 🔒 Encapsulation
-* 🧬 Inheritance
-* 🎭 Polymorphism
-* 🎨 Abstraction
+The next phase of my journey will focus on strengthening advanced Python concepts, Data Structures & Algorithms, databases, APIs, backend development, and larger real-world software projects.
 
-I can now design modular, reusable, maintainable, and object-oriented programs using Python.
-
-The next phase of my journey will focus on advanced Python concepts, data handling, databases, APIs, backend development, and larger real-world software projects.
-
----
-
-# 📖 Upcoming Topics
-
-* Advanced OOP Projects
-* Iterators & Generators
-* Decorators
-* Working with JSON
-* SQLite Database
-* SQL
-* APIs & HTTP
-* FastAPI
-* Backend Development
-* Authentication
-* Testing
-* Real-World Portfolio Projects
-
----
-
-# 🌟 Long-Term Software Engineering Roadmap
-
-```text
+📖 Upcoming Topics
+Advanced OOP Projects
+OOP Design Practice
+Iterators & Generators
+Decorators
+Working with JSON
+SQLite Database
+SQL
+Data Structures & Algorithms
+APIs & HTTP
+FastAPI
+Backend Development
+Authentication
+Testing
+Real-World Portfolio Projects
+🌟 Long-Term Software Engineering Roadmap
 Python Fundamentals
+        ↓
+Object-Oriented Programming
         ↓
 Data Structures & Algorithms
         ↓
-Object-Oriented Programming
+Git & GitHub
         ↓
 SQL & Databases
         ↓
@@ -345,38 +350,28 @@ Testing & Authentication
 Cloud & Deployment
         ↓
 Real-World Projects
-        ↓
+
 Software Engineering Internship
-```
-
----
-
-# 📊 Repository Status
-
-* 📅 Learning Since: 2026
-* 🔥 Python Days Completed: **22**
-* 🚀 Projects Completed: **25**
-* 📂 Regular GitHub Updates
-* 💻 Project-Based Learning
-* 🧩 OOP Foundations Completed
-* 🎯 Focused on Software Engineering & Backend Development
-
----
-
-# 🤝 Connect With Me
+📊 Repository Status
+📅 Learning Since: 2026
+🔥 Python Days Completed: 23
+🚀 Projects Completed: 26
+📂 Regular GitHub Updates
+💻 Project-Based Learning
+🧩 Core OOP Foundations Completed
+🎯 Focused on Software Engineering & Backend Development
+🤝 Connect With Me
 
 I'm continuously learning and improving. Feedback, suggestions, and discussions are always welcome!
 
 If you're also learning Python, feel free to explore this repository and learn along with me.
 
----
-
-# ⭐ Thank You
+⭐ Thank You
 
 Thank you for visiting my repository!
 
-If you found this repository helpful, consider giving it a **⭐ Star**. It motivates me to keep learning, building, and sharing my progress.
+If you found this repository helpful, consider giving it a ⭐ Star. It motivates me to keep learning, building, and sharing my progress.
 
-**Happy Coding! 🚀🐍**
+Happy Coding! 🚀🐍
 
 This repository will continue to grow as I progress through my Software Engineering journey. Every commit represents another step toward becoming a better developer.
