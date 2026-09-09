@@ -31,7 +31,7 @@ class Library:
             book.display()
 
     def search_book(self):
-        keyword = input("Enter title or author to search: ").lower()
+        keyword = input("Enter title or author to search:").lower()
         found = False
         for book in self.books:
             if keyword in book.title.lower() or keyword in book.author.lower():
