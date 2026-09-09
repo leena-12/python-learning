@@ -47,6 +47,7 @@ My primary goal is to:
 * ✅ Day 21 – Object-Oriented Programming (Part 4 – Polymorphism, Duck Typing & Dynamic Method Dispatch)
 * ✅ Day 22 – Object-Oriented Programming (Part 5 – Abstraction, Abstract Classes & Abstract Methods)
 * ✅ Day 23 – Object-Oriented Programming (Part 6 – Composition & Aggregation)
+* ✅ – Python Problem Solving & Hashing-Based Practice
 
 ---
 
@@ -96,6 +97,9 @@ My primary goal is to:
 * Conditional Statements
 * Loops
 * Nested Loops
+* `break`
+* `continue`
+* `pass`
 
 ## Functions
 
@@ -105,6 +109,7 @@ My primary goal is to:
 * Default Arguments
 * Keyword Arguments
 * Variable Scope
+* Function Reusability
 
 ## Collections
 
@@ -118,6 +123,8 @@ My primary goal is to:
 * Membership Operators
 * Copying Lists
 * List Comprehensions
+* Searching
+* Sorting
 
 ### Dictionaries
 
@@ -125,6 +132,8 @@ My primary goal is to:
 * Dictionary Methods
 * Updating Data
 * Searching Data
+* Frequency Counting
+* Hashing-Based Problem Solving
 
 ### Sets
 
@@ -144,8 +153,12 @@ My primary goal is to:
 * String Formatting
 * Palindrome Checking
 * Character Frequency Analysis
+* Anagram Checking
+* First Non-Repeating Character
 
-## File Handling
+---
+
+# 📁 File Handling
 
 * Opening Files
 * Reading Files
@@ -159,7 +172,9 @@ My primary goal is to:
 * File Pointer (`tell()` & `seek()`)
 * File Management
 
-## Exception Handling
+---
+
+# ⚠️ Exception Handling
 
 * Runtime Errors
 * `try`
@@ -171,7 +186,9 @@ My primary goal is to:
 * Input Validation
 * File Exception Handling
 
-## Modules & Packages
+---
+
+# 📦 Modules & Packages
 
 * Creating Modules
 * Importing Modules
@@ -181,9 +198,11 @@ My primary goal is to:
 * Code Reusability
 * Organizing Python Programs
 
-## Object-Oriented Programming
+---
 
-### OOP Basics
+# 🧱 Object-Oriented Programming
+
+## OOP Basics
 
 * Classes
 * Objects
@@ -193,7 +212,7 @@ My primary goal is to:
 * Object Creation
 * Multiple Objects
 
-### Encapsulation
+## Encapsulation
 
 * Public Variables
 * Protected Variables
@@ -203,7 +222,7 @@ My primary goal is to:
 * Data Validation
 * Data Hiding
 
-### Inheritance
+## Inheritance
 
 * Parent & Child Classes
 * Single Inheritance
@@ -212,7 +231,7 @@ My primary goal is to:
 * Code Reusability
 * Extending Existing Classes
 
-### Polymorphism
+## Polymorphism
 
 * Polymorphism
 * Method Overriding
@@ -222,7 +241,7 @@ My primary goal is to:
 * `isinstance()`
 * Flexible Software Design
 
-### Abstraction
+## Abstraction
 
 * Abstraction Concepts
 * Abstract Classes
@@ -234,7 +253,7 @@ My primary goal is to:
 * Hiding Implementation Details
 * Essential Interface Design
 
-### Composition & Aggregation
+## Composition & Aggregation
 
 * Object Composition
 * Object Aggregation
@@ -249,6 +268,35 @@ My primary goal is to:
 
 ---
 
+# 🧩 Problem Solving
+
+I am also using Python to strengthen my problem-solving ability.
+
+Current practice includes:
+
+* Finding the Second Largest Element
+* Palindrome Checking
+* Character Frequency
+* Removing Duplicates
+* Anagram Checking
+* First Non-Repeating Character
+* List Rotation
+* Finding Duplicate Elements
+* Finding the Most Frequent Element
+* Frequency Counting
+* Hashing-Based Problem Solving
+
+The focus is not only on writing working code, but also on understanding:
+
+* Problem requirements
+* Edge cases
+* Different approaches
+* Time complexity
+* Space complexity
+* Choosing appropriate data structures
+
+---
+
 # 💻 Technologies & Tools
 
 * Python 3
@@ -256,6 +304,7 @@ My primary goal is to:
 * Git
 * GitHub
 
+---
 
 # 📂 Repository Structure
 
@@ -285,10 +334,15 @@ Python-Learning/
 ├── Day-20-Inheritance
 ├── Day-21-Polymorphism
 ├── Day-22-Abstraction
-└── Day-23-Composition-and-Aggregation
-📈 Learning Philosophy
+├── Day-23-Composition-and-Aggregation
+└──-Problem-Solving
+```
 
-I believe that learning programming is not about memorizing syntax—it's about understanding concepts, practicing consistently, and building projects.
+---
+
+# 📈 Learning Philosophy
+
+I believe that learning programming is not about memorizing syntax—it's about understanding concepts, practicing consistently, solving problems, and building projects.
 
 This repository reflects my commitment to improving every day through:
 
@@ -297,11 +351,15 @@ This repository reflects my commitment to improving every day through:
 🧩 Problem Solving
 🚀 Building Projects
 📂 Version Control with Git & GitHub
-🎯 Current Milestone
+🔍 Debugging & Learning From Mistakes
 
-✔ Python Fundamentals, Modules & Core Object-Oriented Programming Completed
+---
 
-I have built a strong foundation in Python by mastering programming fundamentals, collections, file handling, exception handling, modules, and the major Object-Oriented Programming concepts:
+# 🎯 Current Milestone
+
+✔ **Python Fundamentals, Core OOP & Problem-Solving Foundations Completed**
+
+I have built a strong foundation in Python by learning programming fundamentals, collections, file handling, exception handling, modules, and the major Object-Oriented Programming concepts:
 
 🔒 Encapsulation
 🧬 Inheritance
@@ -309,31 +367,48 @@ I have built a strong foundation in Python by mastering programming fundamentals
 🎨 Abstraction
 🔗 Composition & Aggregation
 
-I can now design modular, reusable, maintainable, and object-oriented programs using Python, including systems where multiple objects interact through well-defined relationships.
+I have also started strengthening my problem-solving skills through practical programming problems involving:
 
-The next phase of my journey will focus on strengthening advanced Python concepts, Data Structures & Algorithms, databases, APIs, backend development, and larger real-world software projects.
+* Lists
+* Dictionaries
+* Sets
+* Strings
+* Frequency Counting
+* Duplicate Detection
+* Hashing Concepts
 
-📖 Upcoming Topics
-Advanced OOP Projects
-OOP Design Practice
-Iterators & Generators
-Decorators
-Working with JSON
-SQLite Database
-SQL
-Data Structures & Algorithms
-APIs & HTTP
-FastAPI
-Backend Development
-Authentication
-Testing
-Real-World Portfolio Projects
-🌟 Long-Term Software Engineering Roadmap
+The next stage will focus on applying Python more practically while continuing my broader Software Engineering roadmap.
+
+---
+
+# 📖 Upcoming Topics
+
+* Advanced OOP Projects
+* OOP Design Practice
+* Iterators & Generators
+* Decorators
+* Working with JSON
+* SQLite Database
+* SQL
+* Data Structures & Algorithms
+* APIs & HTTP
+* Backend Development
+* Authentication
+* Testing
+* Real-World Portfolio Projects
+
+---
+
+# 🌟 Long-Term Software Engineering Roadmap
+
+```text
 Python Fundamentals
         ↓
 Object-Oriented Programming
         ↓
-Data Structures & Algorithms
+C++ + Data Structures & Algorithms
+        ↓
+Java + Advanced OOP
         ↓
 Git & GitHub
         ↓
@@ -343,35 +418,54 @@ Backend Development
         ↓
 REST APIs
         ↓
-FastAPI
+Spring Boot / FastAPI
         ↓
-Testing & Authentication
+Authentication & Testing
+        ↓
+Docker
         ↓
 Cloud & Deployment
         ↓
-Real-World Projects
-
+Real-World Backend Projects
+        ↓
 Software Engineering Internship
-📊 Repository Status
-📅 Learning Since: 2026
-🔥 Python Days Completed: 23
-🚀 Projects Completed: 26
-📂 Regular GitHub Updates
-💻 Project-Based Learning
-🧩 Core OOP Foundations Completed
-🎯 Focused on Software Engineering & Backend Development
-🤝 Connect With Me
+        ↓
+Advanced Software Engineering
+        ↓
+AI / ML Specialization
+```
+
+---
+
+# 📊 Repository Status
+
+📅 **Learning Since:** 2026
+🔥 **Python Days Completed:** 24
+🚀 **Projects Completed:** 26
+📂 **Regular GitHub Updates**
+💻 **Project-Based Learning**
+🧩 **Core OOP Foundations Completed**
+🧠 **Problem-Solving Practice Started**
+🎯 **Focused on Software Engineering & Backend Development**
+
+---
+
+# 🤝 Connect With Me
 
 I'm continuously learning and improving. Feedback, suggestions, and discussions are always welcome!
 
 If you're also learning Python, feel free to explore this repository and learn along with me.
 
-⭐ Thank You
+---
+
+# ⭐ Thank You
 
 Thank you for visiting my repository!
 
 If you found this repository helpful, consider giving it a ⭐ Star. It motivates me to keep learning, building, and sharing my progress.
 
-Happy Coding! 🚀🐍
+**Happy Coding! 🚀🐍**
 
-This repository will continue to grow as I progress through my Software Engineering journey. Every commit represents another step toward becoming a better developer.
+This repository will continue to grow as I progress through my Software Engineering journey.
+
+> **Every commit represents another step toward becoming a better developer.**
