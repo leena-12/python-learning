@@ -1,4 +1,4 @@
-# 🐍 Python Learning Roadmap 🚀
+# 🐍 Python Learning Roadmap🚀
 
 Welcome to my Python learning repository!
 
@@ -458,7 +458,7 @@ If you're also learning Python, feel free to explore this repository and learn a
 
 ---
 
-# ⭐ Thank You
+#⭐ Thank You
 
 Thank you for visiting my repository!
 
