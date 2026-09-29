@@ -19,7 +19,7 @@ My primary goal is to:
 
 ---
 
-# 📚 Progress
+#📚 Progress
 
 ## ✅ Python Learning Journey
 
