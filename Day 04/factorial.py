@@ -8,4 +8,4 @@ while i <= num :
     i += 1
     
     
-print("The factorial is:",fact)
+print("The factorial is: ",fact)
