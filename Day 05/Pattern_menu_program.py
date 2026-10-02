@@ -4,7 +4,7 @@ print("Choose a pattern:")
 print("1. Right triangle")
 print("2. Inverted triangle")
 print("3. Pyramid")
-print("4. Number triangle")
+print("4. Numbers triangle")
 
 choice = int(input("Enter choice (1-4): "))
 rows = int(input("Enter number of rows: "))
