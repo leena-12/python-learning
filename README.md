@@ -6,7 +6,7 @@ I'm currently learning **Python** as part of my journey to become a **Software E
 
 ---
 
-# 🎯 Goal
+#🎯 Goal
 
 My primary goal is to:
 
