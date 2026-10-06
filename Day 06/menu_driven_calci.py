@@ -1,4 +1,4 @@
-#Mini project a menu driven calculator.
+# Mini project a menu driven calculator.
 def add(a, b):
     return a + b
 
@@ -27,12 +27,12 @@ else:
     b = float(input("Enter second number: "))
 
     if choice == '1':
-        print("Result:", add(a, b))
+        print("Result:", add  (a, b))
     elif choice == '2':
-        print("Result:", subtract(a, b))
+        print("Result:", subtract (a, b))
     elif choice == '3':
-        print("Result:", multiply(a, b))
+        print("Result:", multiply (a, b))
     elif choice == '4':
-        print("Result:", divide(a, b))
+        print("Result:", divide (a, b))
     else:
-        print("Invalid choice")
+        print("Ooopsss!!!,Invalid choice")
