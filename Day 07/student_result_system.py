@@ -1,5 +1,5 @@
 
-#Simple mini project student result system that calculates total, percentage, and grade.
+#Simple mini project of the student result system that calculates total, percentage, and grade.
 
 def calculate_result(marks):
     total = sum(marks)
