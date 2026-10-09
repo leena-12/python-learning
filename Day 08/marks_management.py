@@ -2,7 +2,6 @@
 Student Marks Management System 
 
 Menu:
-
 1. Add Marks
 2. Display Marks
 3. Highest Marks
@@ -11,7 +10,6 @@ Menu:
 6. Exit
 
 Requirements:
-
 Store marks in a list.
 Use functions.
 Use loops.
