@@ -1,27 +1,34 @@
-#🐍 Python Learning Roadmap🚀
+# 🐍 Python Learning Roadmap 🚀
 
 Welcome to my Python learning repository!
 
-I'm currently learning **Python** as part of my journey to become a **Software Engineer**. This repository documents my daily progress, practice programs, mini-projects, and notes as I build strong programming fundamentals.
+I'm learning **Python** as part of my journey to become a Software Engineer. This repository documents my daily progress, practice programs, mini-projects, and problem-solving exercises as I strengthen my programming fundamentals and prepare for software engineering internships.
+
+My focus is not just learning Python syntax. I want to develop the ability to solve problems independently, write clean and reusable code, build practical projects, and apply Python to real-world software development.
 
 ---
 
-#🎯 Goal
+# 🎯 Goals
 
-My primary goal is to:
+My primary goals are to:
 
 * Build a strong foundation in Python programming.
-* Develop problem-solving skills.
-* Master Data Structures and Algorithms.
-* Learn Backend Development.
-* Build real-world projects.
+* Develop logical thinking and problem-solving skills.
+* Practice Data Structures and Algorithms.
+* Strengthen Object-Oriented Programming.
+* Learn to write clean, readable, and maintainable code.
+* Build practical and real-world projects.
+* Learn databases, APIs, and backend development.
 * Prepare for Software Engineering internships.
+* Use Git and GitHub to document my learning and showcase my work.
 
 ---
 
-#📚 Progress
+# 📚 Progress
 
 ## ✅ Python Learning Journey
+
+### Python Fundamentals
 
 * ✅ Day 1 – Variables, Data Types & Input/Output
 * ✅ Day 2 – Operators
@@ -31,172 +38,209 @@ My primary goal is to:
 * ✅ Day 6 – Functions & Menu-Driven Calculator
 * ✅ Day 7 – Advanced Functions, Scope & Student Result System
 * ✅ Review Day – Revision of Days 1–7
-* ✅ Day 8 – Lists (Creation, Indexing, Slicing, Methods & Traversing)
-* ✅ Day 9 – Advanced Lists (Iteration, Membership, Copying & List Comprehensions)
-* ✅ Day 10 – Dictionaries (Creation, Methods & Dictionary Applications)
-* ✅ Day 11 – Sets (Operations, Methods & Practical Applications)
-* ✅ Day 12 – Strings (Part 1 – Basics & Common Methods)
-* ✅ Day 13 – Strings (Part 2 – Advanced Operations & Mini Projects)
-* ✅ Day 14 – File Handling (Reading, Writing, Appending & File Operations)
-* ✅ Day 15 – Advanced File Handling (Searching, Updating, File Pointers & Student Database Manager)
-* ✅ Day 16 – Exception Handling (`try`, `except`, `else`, `finally`, `raise`)
-* ✅ Day 17 – Modules & Packages (Creating Modules, Importing & Code Organization)
-* ✅ Day 18 – Object-Oriented Programming (Part 1 – Classes, Objects, Constructors & Instance Methods)
-* ✅ Day 19 – Object-Oriented Programming (Part 2 – Encapsulation, Class Variables, Static Methods & Getters/Setters)
-* ✅ Day 20 – Object-Oriented Programming (Part 3 – Inheritance, Method Overriding & `super()`)
-* ✅ Day 21 – Object-Oriented Programming (Part 4 – Polymorphism, Duck Typing & Dynamic Method Dispatch)
-* ✅ Day 22 – Object-Oriented Programming (Part 5 – Abstraction, Abstract Classes & Abstract Methods)
-* ✅ Day 23 – Object-Oriented Programming (Part 6 – Composition & Aggregation)
-* ✅ – Python Problem Solving & Hashing-Based Practice
+
+### Collections and Strings
+
+* ✅ Day 8 – Lists: Creation, Indexing, Slicing, Methods & Traversing
+* ✅ Day 9 – Advanced Lists: Iteration, Membership, Copying & List Comprehensions
+* ✅ Day 10 – Dictionaries: Creation, Methods & Dictionary Applications
+* ✅ Day 11 – Sets: Operations, Methods & Practical Applications
+* ✅ Day 12 – Strings Part 1: Basics & Common Methods
+* ✅ Day 13 – Strings Part 2: Advanced Operations & Mini Projects
+
+### File Handling and Program Organization
+
+* ✅ Day 14 – File Handling: Reading, Writing, Appending & File Operations
+* ✅ Day 15 – Advanced File Handling: Searching, Updating, File Pointers & Student Database Manager
+* ✅ Day 16 – Exception Handling: `try`, `except`, `else`, `finally` & `raise`
+* ✅ Day 17 – Modules & Packages: Imports, Modules & Code Organization
+
+### Object-Oriented Programming
+
+* ✅ Day 18 – OOP Part 1: Classes, Objects, Constructors & Instance Methods
+* ✅ Day 19 – OOP Part 2: Encapsulation, Class Variables, Static Methods & Getters/Setters
+* ✅ Day 20 – OOP Part 3: Inheritance, Method Overriding & `super()`
+* ✅ Day 21 – OOP Part 4: Polymorphism, Duck Typing & Dynamic Method Dispatch
+* ✅ Day 22 – OOP Part 5: Abstraction, Abstract Classes & Abstract Methods
+* ✅ Day 23 – OOP Part 6: Composition & Aggregation
+
+### Problem-Solving Practice
+
+* ✅ Day 24 – Python Problem Solving & Hashing-Based Practice
+
+**Note:** Day 24 is the Python repository's problem-solving milestone. The separate unified roadmap uses its own day numbers for coordinating Java, C++ DSA, Python maintenance, and career development.
 
 ---
 
 # 🚀 Projects Completed
 
-* 🧮 Menu-Driven Calculator
-* 🎓 Student Result Management System
-* 📋 Student Attendance System
-* 🎬 Movie Collection Manager
-* 👨‍🎓 Student Information System
-* 📞 Phone Book Application
-* 📚 Library Book Management System (Version 1)
-* 👥 Unique Visitor Tracker
-* 📧 Student Email Generator
-* 👤 Username Generator
-* 🔐 Password Validator
-* 📊 Text Analyzer
-* 📁 Student Record File Management System
-* 🗂️ Student Database Manager
-* 💰 Expense Tracker
-* 🏦 ATM System with Exception Handling
-* 🎓 Student Grade Calculator
-* 📚 Library Management System (Version 2 – OOP)
-* 🏦 Bank Management System (Version 2 – OOP)
-* 👨‍💼 Employee Management System
-* 📚 Library Management System (Version 3 – Inheritance)
-* 📚 Library Management System (Version 4 – Polymorphism)
-* 🍕 Food Delivery System
-* 📚 Library Management System (Version 5 – Abstraction)
-* 💳 Online Payment System (Abstraction)
-* 🏢 Company Management System (Composition & Aggregation)
+## Core Python Projects
+
+1. 🧮 Menu-Driven Calculator
+2. 🎓 Student Result Management System
+3. 📋 Student Attendance System
+4. 🎬 Movie Collection Manager
+5. 👨‍🎓 Student Information System
+6. 📞 Phone Book Application
+7. 📚 Library Book Management System – Version 1
+8. 👥 Unique Visitor Tracker
+9. 📧 Student Email Generator
+10. 👤 Username Generator
+11. 🔐 Password Validator
+12. 📊 Text Analyzer
+
+## File Handling and Practical Applications
+
+13. 📁 Student Record File Management System
+14. 🗂️ Student Database Manager
+15. 💰 Expense Tracker
+16. 🏦 ATM System with Exception Handling
+17. 🎓 Student Grade Calculator
+
+## Object-Oriented Programming Projects
+
+18. 📚 Library Management System – Version 2: OOP
+19. 🏦 Bank Management System – Version 2: OOP
+20. 👨‍💼 Employee Management System
+21. 📚 Library Management System – Version 3: Inheritance
+22. 📚 Library Management System – Version 4: Polymorphism
+23. 🍕 Food Delivery System
+24. 📚 Library Management System – Version 5: Abstraction
+25. 💳 Online Payment System: Abstraction
+26. 🏢 Company Management System: Composition & Aggregation
+
+**Current project count: 26**
+
+The next stage is to strengthen these foundations through more advanced problem-solving, database integration, testing, and practical application development.
 
 ---
 
 # 🧠 Skills Learned
 
-## Python Basics
+## 1. Python Fundamentals
 
-* Variables
-* Data Types
-* Type Casting
-* Input & Output
+* Variables and data types
+* Type casting
+* Input and output
 * Operators
+* Expressions
+* Writing basic Python programs
 
-## Control Flow
+## 2. Control Flow
 
-* Conditional Statements
-* Loops
-* Nested Loops
+* Conditional statements
+* `if`, `elif` and `else`
+* `for` loops
+* `while` loops
+* Nested loops
 * `break`
 * `continue`
 * `pass`
+* Pattern printing
 
-## Functions
+## 3. Functions
 
-* Function Creation
-* Parameters
-* Return Values
-* Default Arguments
-* Keyword Arguments
-* Variable Scope
-* Function Reusability
+* Function creation
+* Parameters and arguments
+* Return values
+* Default arguments
+* Keyword arguments
+* Variable scope
+* Function reusability
+* Breaking programs into smaller functions
 
-## Collections
+## 4. Collections
 
 ### Lists
 
-* Creating Lists
-* Indexing
-* Slicing
-* Traversing
-* List Methods
-* Membership Operators
-* Copying Lists
-* List Comprehensions
-* Searching
-* Sorting
+* Creating and traversing lists
+* Indexing and slicing
+* List methods
+* Membership operators
+* Copying lists
+* List comprehensions
+* Searching and sorting
+* Removing duplicates
+* List manipulation
 
 ### Dictionaries
 
-* Key-Value Pairs
-* Dictionary Methods
-* Updating Data
-* Searching Data
-* Frequency Counting
-* Hashing-Based Problem Solving
+* Key-value pairs
+* Dictionary methods
+* Adding and updating data
+* Searching for data
+* Frequency counting
+* Using dictionaries for hashing-based problems
 
 ### Sets
 
-* Unique Elements
-* Set Operations
-* Membership Testing
-* Removing Duplicates
+* Unique elements
+* Set operations
+* Membership testing
+* Removing duplicates
+* Comparing collections
 
 ### Strings
 
-* Indexing
-* Slicing
-* String Methods
+* Indexing and slicing
+* String methods
 * Searching
-* Character Validation
-* Reversing Strings
-* String Formatting
-* Palindrome Checking
-* Character Frequency Analysis
-* Anagram Checking
-* First Non-Repeating Character
+* Character validation
+* Reversing strings
+* String formatting
+* Palindrome checking
+* Character frequency analysis
+* Anagram checking
+* First non-repeating character
 
 ---
 
 # 📁 File Handling
 
-* Opening Files
-* Reading Files
-* Writing Files
-* Appending Data
-* File Modes (`r`, `w`, `a`, `r+`)
-* Using the `with` Statement
-* Reading Multiple Lines
-* Searching Data in Files
-* Updating File Content
-* File Pointer (`tell()` & `seek()`)
-* File Management
+Topics covered:
+
+* Opening files
+* Reading files
+* Writing files
+* Appending data
+* File modes: `r`, `w`, `a` and `r+`
+* Using the `with` statement
+* Reading multiple lines
+* Searching data in files
+* Updating file content
+* File pointers: `tell()` and `seek()`
+* File management
+* Handling file-related exceptions
 
 ---
 
 # ⚠️ Exception Handling
 
-* Runtime Errors
+Topics covered:
+
+* Runtime errors
 * `try`
 * `except`
 * `else`
 * `finally`
-* Raising Exceptions (`raise`)
-* Handling Specific Exceptions
-* Input Validation
-* File Exception Handling
+* Raising exceptions with `raise`
+* Handling specific exceptions
+* Input validation
+* File exception handling
 
 ---
 
 # 📦 Modules & Packages
 
-* Creating Modules
-* Importing Modules
-* Importing Specific Functions
-* Aliasing Modules
-* Built-in Modules
-* Code Reusability
-* Organizing Python Programs
+Topics covered:
+
+* Creating modules
+* Importing modules
+* Importing specific functions
+* Aliasing modules
+* Built-in modules
+* Code reusability
+* Organizing Python programs into reusable components
 
 ---
 
@@ -204,96 +248,113 @@ My primary goal is to:
 
 ## OOP Basics
 
-* Classes
-* Objects
-* Constructors (`__init__`)
-* Instance Variables
-* Instance Methods
-* Object Creation
-* Multiple Objects
+* Classes and objects
+* Constructors using `__init__`
+* Instance variables
+* Instance methods
+* Object creation
+* Multiple objects
 
 ## Encapsulation
 
-* Public Variables
-* Protected Variables
-* Private Variables
-* Getter Methods
-* Setter Methods
-* Data Validation
-* Data Hiding
+* Public, protected and private naming conventions
+* Getter methods
+* Setter methods
+* Data validation
+* Data hiding
 
 ## Inheritance
 
-* Parent & Child Classes
-* Single Inheritance
-* Method Overriding
-* `super()` Function
-* Code Reusability
-* Extending Existing Classes
+* Parent and child classes
+* Single inheritance
+* Method overriding
+* `super()`
+* Code reusability
+* Extending existing classes
 
 ## Polymorphism
 
 * Polymorphism
-* Method Overriding
-* Runtime Polymorphism
-* Duck Typing
-* Dynamic Method Dispatch
+* Method overriding
+* Runtime polymorphism
+* Duck typing
+* Dynamic method dispatch
 * `isinstance()`
-* Flexible Software Design
+* Flexible software design
 
 ## Abstraction
 
-* Abstraction Concepts
-* Abstract Classes
-* Abstract Methods
+* Abstract classes
+* Abstract methods
 * `ABC`
 * `abstractmethod`
-* Python `abc` Module
-* Designing Class Contracts
-* Hiding Implementation Details
-* Essential Interface Design
+* Python's `abc` module
+* Designing class contracts
+* Hiding implementation details
+* Interface-like design
 
 ## Composition & Aggregation
 
-* Object Composition
-* Object Aggregation
-* "Has-A" Relationship
-* Strong Object Ownership
-* Weak Object Association
-* Object Lifecycle
-* Composition vs Aggregation
-* Designing Classes with Relationships
-* Reusable Object Design
-* Building Complex Systems from Smaller Objects
+* Object composition
+* Object aggregation
+* Has-a relationships
+* Strong object ownership
+* Weak object association
+* Object lifecycle
+* Composition vs. aggregation
+* Designing classes with relationships
+* Reusable object design
+* Building complex systems from smaller objects
 
 ---
 
 # 🧩 Problem Solving
 
-I am also using Python to strengthen my problem-solving ability.
+I use Python to strengthen my logical thinking and ability to translate a problem into working code.
 
-Current practice includes:
+## Problems Practiced
 
-* Finding the Second Largest Element
-* Palindrome Checking
-* Character Frequency
-* Removing Duplicates
-* Anagram Checking
-* First Non-Repeating Character
-* List Rotation
-* Finding Duplicate Elements
-* Finding the Most Frequent Element
-* Frequency Counting
-* Hashing-Based Problem Solving
+* Finding the second-largest element
+* Palindrome checking
+* Character frequency counting
+* Removing duplicates
+* Anagram checking
+* Finding the first non-repeating character
+* List rotation
+* Finding duplicate elements
+* Finding the most frequent element
+* Frequency counting
+* Hashing-based problem solving
 
-The focus is not only on writing working code, but also on understanding:
+## Current Practice Areas
 
-* Problem requirements
-* Edge cases
-* Different approaches
-* Time complexity
-* Space complexity
-* Choosing appropriate data structures
+My ongoing Python maintenance practice also includes:
+
+* Two-pointer techniques
+* Reversing strings without relying on slicing shortcuts
+* Moving zeros to the end of a list
+* Two Sum on a sorted list
+* Removing duplicates from a sorted list
+* Improving solutions beyond brute force
+* Choosing suitable data structures
+
+These are ongoing practice exercises, not additional completed Python roadmap days.
+
+## My Problem-Solving Approach
+
+For each problem, I aim to:
+
+1. Understand the requirements.
+2. Identify the input, output and constraints.
+3. Work through an example manually.
+4. Develop a straightforward solution.
+5. Consider edge cases.
+6. Analyze time and space complexity.
+7. Improve the solution where appropriate.
+8. Test the implementation.
+9. Review mistakes and learn from them.
+
+My goal is to become capable of solving problems independently rather than relying on tutorials or copying solutions.
 
 ---
 
@@ -304,6 +365,8 @@ The focus is not only on writing working code, but also on understanding:
 * Git
 * GitHub
 
+Python is one part of my broader development roadmap. I am also strengthening Java for Object-Oriented Programming and future backend development, and C++ for Data Structures and Algorithms.
+
 ---
 
 # 📂 Repository Structure
@@ -311,91 +374,99 @@ The focus is not only on writing working code, but also on understanding:
 ```text
 Python-Learning/
 │
-├── Day-01-Basics
-├── Day-02-Operators
-├── Day-03-Conditionals
-├── Day-04-Loops
-├── Day-05-Nested-Loops
-├── Day-06-Functions
-├── Day-07-Advanced-Functions
-├── Review-Day-01
-├── Day-08-Lists-Part-1
-├── Day-09-Lists-Part-2
-├── Day-10-Dictionaries
-├── Day-11-Sets
-├── Day-12-Strings-Part-1
-├── Day-13-Strings-Part-2
-├── Day-14-File-Handling
-├── Day-15-Advanced-File-Handling
-├── Day-16-Exception-Handling
-├── Day-17-Modules-and-Packages
-├── Day-18-OOP-Part-1
-├── Day-19-OOP-Part-2
-├── Day-20-Inheritance
-├── Day-21-Polymorphism
-├── Day-22-Abstraction
-├── Day-23-Composition-and-Aggregation
-└──-Problem-Solving
+├── Day-01-Basics/
+├── Day-02-Operators/
+├── Day-03-Conditionals/
+├── Day-04-Loops/
+├── Day-05-Nested-Loops/
+├── Day-06-Functions/
+├── Day-07-Advanced-Functions/
+├── Review-Day-01/
+├── Day-08-Lists-Part-1/
+├── Day-09-Lists-Part-2/
+├── Day-10-Dictionaries/
+├── Day-11-Sets/
+├── Day-12-Strings-Part-1/
+├── Day-13-Strings-Part-2/
+├── Day-14-File-Handling/
+├── Day-15-Advanced-File-Handling/
+├── Day-16-Exception-Handling/
+├── Day-17-Modules-and-Packages/
+├── Day-18-OOP-Part-1/
+├── Day-19-OOP-Part-2/
+├── Day-20-Inheritance/
+├── Day-21-Polymorphism/
+├── Day-22-Abstraction/
+├── Day-23-Composition-and-Aggregation/
+├── Day-24-Problem-Solving/
+│
+└── README.md
 ```
+
+This is the intended structure based on my learning roadmap. Individual filenames and folders may evolve as the repository grows.
 
 ---
 
 # 📈 Learning Philosophy
 
-I believe that learning programming is not about memorizing syntax—it's about understanding concepts, practicing consistently, solving problems, and building projects.
+I believe programming is not about memorizing syntax. It is about understanding concepts, practicing consistently, solving problems, and building useful software.
 
-This repository reflects my commitment to improving every day through:
+My learning process focuses on:
 
-📖 Learning
-💻 Coding
-🧩 Problem Solving
-🚀 Building Projects
-📂 Version Control with Git & GitHub
-🔍 Debugging & Learning From Mistakes
+* 📖 Learning concepts
+* 💻 Writing code independently
+* 🧩 Solving programming problems
+* 🚀 Building projects
+* 📂 Using Git and GitHub
+* 🔍 Debugging and learning from mistakes
+* 🔄 Revisiting topics that need improvement
+* 📊 Understanding complexity and code quality
 
 ---
 
 # 🎯 Current Milestone
 
-✔ **Python Fundamentals, Core OOP & Problem-Solving Foundations Completed**
+## Python Fundamentals, Core OOP & Problem-Solving Foundations
 
-I have built a strong foundation in Python by learning programming fundamentals, collections, file handling, exception handling, modules, and the major Object-Oriented Programming concepts:
+I have completed the first 24 Python learning milestones, covering:
 
-🔒 Encapsulation
-🧬 Inheritance
-🎭 Polymorphism
-🎨 Abstraction
-🔗 Composition & Aggregation
+* Programming fundamentals
+* Control flow and functions
+* Lists, dictionaries, sets and strings
+* File handling
+* Exception handling
+* Modules and packages
+* Core Object-Oriented Programming
+* Composition and aggregation
+* Initial problem-solving and hashing practice
 
-I have also started strengthening my problem-solving skills through practical programming problems involving:
+I have also completed 26 learning projects and applications.
 
-* Lists
-* Dictionaries
-* Sets
-* Strings
-* Frequency Counting
-* Duplicate Detection
-* Hashing Concepts
+My current focus is to **retain and apply Python skills while progressing toward stronger problem-solving ability and practical software development**.
 
-The next stage will focus on applying Python more practically while continuing my broader Software Engineering roadmap.
+Python remains part of my daily learning strategy, but it is not my only focus.
 
 ---
 
 # 📖 Upcoming Topics
 
-* Advanced OOP Projects
-* OOP Design Practice
-* Iterators & Generators
+The next stages of my Python learning include:
+
+* Advanced OOP projects
+* OOP design practice
+* Iterators and generators
 * Decorators
-* Working with JSON
-* SQLite Database
-* SQL
-* Data Structures & Algorithms
-* APIs & HTTP
-* Backend Development
+* JSON handling
+* SQLite database integration
+* SQL and database fundamentals
+* More Data Structures and Algorithms practice
+* HTTP and APIs
+* Backend development
 * Authentication
-* Testing
-* Real-World Portfolio Projects
+* Automated testing
+* Real-world portfolio projects
+
+These topics will be introduced progressively rather than all at once.
 
 ---
 
@@ -404,7 +475,9 @@ The next stage will focus on applying Python more practically while continuing m
 ```text
 Python Fundamentals
         ↓
-Object-Oriented Programming
+Core Object-Oriented Programming
+        ↓
+Python Problem Solving
         ↓
 C++ + Data Structures & Algorithms
         ↓
@@ -414,17 +487,17 @@ Git & GitHub
         ↓
 SQL & Databases
         ↓
-Backend Development
+HTTP, JSON & REST APIs
         ↓
-REST APIs
+Backend Development
         ↓
 Spring Boot / FastAPI
         ↓
 Authentication & Testing
         ↓
-Docker
+Docker & Deployment
         ↓
-Cloud & Deployment
+Cloud Fundamentals
         ↓
 Real-World Backend Projects
         ↓
@@ -432,40 +505,41 @@ Software Engineering Internship
         ↓
 Advanced Software Engineering
         ↓
-AI / ML Specialization
+Optional AI / ML Specialization
 ```
+
+This roadmap represents my broader career direction. Python, Java and C++ have complementary roles in my learning plan.
 
 ---
 
 # 📊 Repository Status
 
-📅 **Learning Since:** 2026
-🔥 **Python Days Completed:** 24
-🚀 **Projects Completed:** 26
-📂 **Regular GitHub Updates**
-💻 **Project-Based Learning**
-🧩 **Core OOP Foundations Completed**
-🧠 **Problem-Solving Practice Started**
-🎯 **Focused on Software Engineering & Backend Development**
+* 📅 **Learning Since:** 2026
+* 🐍 **Python Days Completed:** 24
+* 🚀 **Projects Completed:** 26
+* 📂 **Regular GitHub Updates:** Ongoing
+* 🧱 **Core OOP Foundations:** Completed
+* 🧩 **Problem-Solving Practice:** In Progress
+* 🔄 **Python Maintenance Practice:** Ongoing
+* 🎯 **Career Goal:** Software Engineering Internship
+* 💻 **Long-Term Focus:** Backend Development and Software Engineering
 
 ---
 
 # 🤝 Connect With Me
 
-I'm continuously learning and improving. Feedback, suggestions, and discussions are always welcome!
+I'm continuously learning, building projects and improving my programming skills.
 
-If you're also learning Python, feel free to explore this repository and learn along with me.
+Feedback, suggestions and discussions are always welcome. If you're also learning Python, feel free to explore this repository and follow along with my progress.
 
 ---
 
-#⭐ Thank You
+# ⭐ Thank You!
 
 Thank you for visiting my repository!
 
-If you found this repository helpful, consider giving it a ⭐ Star. It motivates me to keep learning, building, and sharing my progress.
+If you find this repository helpful, consider giving it a ⭐ star. It motivates me to keep learning, building and sharing my progress.
 
 **Happy Coding! 🚀🐍**
 
-This repository will continue to grow as I progress through my Software Engineering journey.
-
-> **Every commit represents another step toward becoming a better developer.**
+> Every commit represents another step toward becoming a better developer.
