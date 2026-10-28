@@ -1,4 +1,4 @@
-# 🐍 Python Learning Roadmap 🚀
+#🐍 Python Learning Roadmap 🚀
 
 Welcome to my Python learning repository!
 
@@ -8,7 +8,7 @@ My focus is not just learning Python syntax. I want to develop the ability to so
 
 ---
 
-# 🎯 Goals
+#🎯 Goals
 
 My primary goals are to:
 
