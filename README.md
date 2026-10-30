@@ -24,7 +24,7 @@ My primary goals are to:
 
 ---
 
-# 📚 Progress
+#📚 Progress
 
 ## ✅ Python Learning Journey
 
