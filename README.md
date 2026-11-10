@@ -72,7 +72,7 @@ My primary goals are to:
 
 ---
 
-# 🚀 Projects Completed
+#🚀 Projects Completed
 
 ## Core Python Projects
 
